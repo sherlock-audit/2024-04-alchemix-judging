@@ -113,3 +113,7 @@ The protocol team fixed this issue in the following PRs/commits:
 https://github.com/alchemix-finance/v2-foundry/commit/f0e7530cde2c006fd13c7c34b695113679a9655b
 
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
